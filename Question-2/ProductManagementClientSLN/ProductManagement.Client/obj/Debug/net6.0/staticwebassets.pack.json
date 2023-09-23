@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\WorkbyPerkyRabbit\\Question-2\\ProductManagementClientSLN\\ProductManagement.Client\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProductManagement.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProductManagement.Client.props",
+      "PackagePath": "build\\ProductManagement.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductManagement.Client.props",
+      "PackagePath": "buildMultiTargeting\\ProductManagement.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProductManagement.Client.props",
+      "PackagePath": "buildTransitive\\ProductManagement.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

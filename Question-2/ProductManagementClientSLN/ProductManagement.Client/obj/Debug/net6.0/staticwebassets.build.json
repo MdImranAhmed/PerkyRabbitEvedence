@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "OaBM5J+Vya+dpAQZOw4amosT9Nq55K3xQOAV/71KgFg=",
+  "Source": "ProductManagement.Client",
+  "BasePath": "_content/ProductManagement.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductManagement.Client\\wwwroot",
+      "Source": "ProductManagement.Client",
+      "ContentRoot": "E:\\WorkbyPerkyRabbit\\Question-2\\ProductManagementClientSLN\\ProductManagement.Client\\wwwroot\\",
+      "BasePath": "_content/ProductManagement.Client",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\WorkbyPerkyRabbit\\Question-2\\ProductManagementClientSLN\\ProductManagement.Client\\wwwroot\\Index.html",
+      "SourceId": "ProductManagement.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\WorkbyPerkyRabbit\\Question-2\\ProductManagementClientSLN\\ProductManagement.Client\\wwwroot\\",
+      "BasePath": "_content/ProductManagement.Client",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}

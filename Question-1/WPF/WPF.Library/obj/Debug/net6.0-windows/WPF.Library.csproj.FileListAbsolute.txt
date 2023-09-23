@@ -1,0 +1,11 @@
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\bin\Debug\net6.0-windows\WPF.Library.deps.json
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\bin\Debug\net6.0-windows\WPF.Library.dll
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\bin\Debug\net6.0-windows\WPF.Library.pdb
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\obj\Debug\net6.0-windows\WPF.Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\obj\Debug\net6.0-windows\WPF.Library.AssemblyInfoInputs.cache
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\obj\Debug\net6.0-windows\WPF.Library.AssemblyInfo.cs
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\obj\Debug\net6.0-windows\WPF.Library.csproj.CoreCompileInputs.cache
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\obj\Debug\net6.0-windows\WPF.Library.dll
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\obj\Debug\net6.0-windows\refint\WPF.Library.dll
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\obj\Debug\net6.0-windows\WPF.Library.pdb
+E:\WorkbyPerkyRabbit\WPF\WPF\WPF.Library\obj\Debug\net6.0-windows\ref\WPF.Library.dll
